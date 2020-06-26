@@ -1,0 +1,38 @@
+.main{
+    border: 5px solid grey;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    padding-left: 35px;
+    background-color: lightblue;
+}
+.form-control{
+    margin-left: 10px!important;
+    width: 91%!important;
+    background-color: lightgray;
+    color:black;
+}
+.clearbtn{
+    width: 68%;
+    margin-left: 10px;
+    margin-right: 4px;
+
+}
+.btn-m{
+    width: 21.5%;
+    
+
+}
+.btn-my{
+    width: 22%;
+    margin: 2px; 
+}
+.btnset{
+   margin-left: 8px;
+}
+.btnother{
+    margin-left: 10px;
+}
+.btnn{
+    width: 46%;
+}
