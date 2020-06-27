@@ -1,3 +1,9 @@
+body{
+    background: url('1.jpg');
+    background-attachment: fixed;
+ 
+    background-size: cover;
+}
 .main{
     border: 5px solid grey;
     width: 50%;
@@ -11,22 +17,34 @@
     width: 91%!important;
     background-color: lightgray;
     color:black;
+    height: 20%; 
+    display: flex!important;
+    align-items: stretch!important;
 }
 .clearbtn{
     width: 68%;
+    height: 10%;
     margin-left: 10px;
     margin-right: 4px;
+    background-color: lightcoral!important;
 
 }
 .btn-m{
     width: 21.5%;
-    
-
+    height: 10%;
+    border-radius: 100%!important;
+    background-color: yellowgreen!important;
+    color: black!important;
 }
 .btn-my{
     width: 22%;
-    margin: 2px; 
-}
+    height: 10%;
+    margin: 2px;
+    border-radius: 100%!important;
+    background-color: yellowgreen!important;
+    color: black!important;
+     }
+
 .btnset{
    margin-left: 8px;
 }
@@ -35,4 +53,5 @@
 }
 .btnn{
     width: 46%;
+    height: 10%;
 }
